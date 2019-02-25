@@ -7,5 +7,5 @@
 ![购物车结算]("D:/yan2/qianduan/Vue-practice/shoppingCarTest/购物车结算.png")
 
 * 地址选择功能
-![地址选择]("D:/yan2/qianduan/Vue-practice/shoppingCarTest/地址选择.png")
+![地址选择]("D:/yan2/qianduan/Vue-practice/shoppingCarTest/address.png")
 
