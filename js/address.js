@@ -10,12 +10,6 @@ var vm = new Vue({
         editAddFlag: false,
         editAdd: '',
         addAddFlag: false,
-        addName: '',
-        addStreet: '',
-        addTel: '',
-        resultName: '',
-        resultStreet: '',
-        resultTel: '',
         selectList: {},
 
     },
