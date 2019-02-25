@@ -4,8 +4,8 @@
 
 ## 项目效果展示
 * 购物车结算功能
-<img style="width: 600px;text-align:center；" src="D:/yan2/qianduan/Vue-practice/shoppingCarTest/购物车结算.png">
+![购物车结算]("D:/yan2/qianduan/Vue-practice/shoppingCarTest/购物车结算.png")
 
 * 地址选择功能
-<img style="width: 600px;text-align:center；" src="D:/yan2/qianduan/Vue-practice/shoppingCarTest/地址选择.png">
+![地址选择]("D:/yan2/qianduan/Vue-practice/shoppingCarTest/地址选择.png")
 
