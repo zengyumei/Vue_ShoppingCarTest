@@ -17,7 +17,7 @@ var vm = new Vue({
     methods:{
         cartView: function(){
             let _this = this;
-            this.$http.get("data/cartData.json", {"id": 123}).then(res=>{
+            this.$http.get("data/cartData.json").then(res=>{
                 this.productList = res.data.result.list;
 
             });
