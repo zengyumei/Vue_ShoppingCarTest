@@ -4,7 +4,7 @@
 
 ## 项目效果展示
 * 购物车结算功能
-![购物车结算](D:/yan2/qianduan/Vue-practice/shoppingCarTest/购物车结算.png)
+![购物车结算](https://github.com/zengyumei/Vue_ShoppingCarTest/screenshot/market.png)
 
 * 地址选择功能
 ![地址选择](D:/yan2/qianduan/Vue-practice/shoppingCarTest/address.png)
